@@ -17,7 +17,7 @@ def prediction(sepal_length, sepal_width, petal_length, petal_width):
 
 def main():
     st.title("Aplikasi Prediksi Bunga Iris Algoritma Logistic Regression")
-    st.markdown('Oleh : Agung Gunawan (2019230044) | Universitas Darma Persada | UAS Datamining')
+    st.markdown('Oleh : Muhammad Sadam Mahendra (2019230044) | Universitas Darma Persada | UAS Datamining')
     st.write('\n')
     st.markdown('Silakan isi form berikut terlebih dahulu :')
     
